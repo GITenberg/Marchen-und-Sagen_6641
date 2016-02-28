@@ -1,0 +1,37 @@
+_repo: Marchen-und-Sagen_6641
+creator:
+  author:
+    agent_name: Arndt, Ernst Moritz
+    alias: Arndt, E. M. (Ernst Moritz)
+    birthdate: 1769
+    deathdate: 1860
+    gutenberg_agent_id: '2126'
+    url: http://www.gutenberg.org/2009/agents/2126
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Ernst_Moritz_Arndt
+    - http://en.wikipedia.org/wiki/Ernst_Moritz_Arndt
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6641'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'GR'
+- !lcc 'PT'
+tableOfContents: "Das brennende Geld\r\nDe Blagfoot\r\nDe Brügg bi Slemmin\r\nDe Köninge\
+  \ van den Deerden\r\nDe Prester un de Düwel\r\nDe Raw de Ringdeef\r\nDe Wewer un\
+  \ de Steen\r\nDe krassende Hahn\r\nDe witte Fru to Löbnitz\r\nDer Rabenstein\r\n\
+  Der Schlangenkönig\r\nDer Wiedehopf\r\nDer Wolf und die Nachtigall\r\nDer große\
+  \ Jochen\r\nDie Unterirdischen in den Neun Bergen bei Rambin\r\nDie alte Burg bei\
+  \ Löbnitz\r\nDom büst du då?\r\nGeschichte von den sieben bunten Mäusen\r\nHalt\
+  \ den Mittelweg!\r\nIck bün de Ridder Unvörzagt und sla der Säwen mit eenem Slag\r\
+  \nKater Martinchen\r\nKlas Avenstaken\r\nPrinzessin Svanvithe\r\nRattenkönig Birlibi\r\
+  \nRotkehlchen und Kohlmeischen\r\nSchipper Gau un sin Puk\r\nThrin Wulfen"
+title: Märchen und Sagen
+url: http://www.gutenberg.org/ebooks/6641
