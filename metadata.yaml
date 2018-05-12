@@ -1,4 +1,8 @@
 _repo: Marchen-und-Sagen_6641
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arndt, Ernst Moritz
@@ -11,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Ernst_Moritz_Arndt
     - http://en.wikipedia.org/wiki/Ernst_Moritz_Arndt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6641#Marchen-und-Sagen
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
